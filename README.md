@@ -35,11 +35,11 @@ open to     internships in software engineering, embedded systems and ML
 <table>
 <tr><td><code>lang</code></td><td><img src="https://skillicons.dev/icons?i=py,cpp,c,java,kotlin,js,ts&theme=dark" /></td></tr>
 <tr><td><code>web</code></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark" /></td></tr>
-<tr><td><code>backend</code></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,prisma,supabase,mongodb,docker&theme=dark" /></td></tr>
+<tr><td><code>backend</code></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase,mongodb,docker&theme=dark" /> <img src="https://img.shields.io/badge/Fastify-0b0f14?style=flat-square&logo=fastify&logoColor=00e5ff" /></td></tr>
 <tr><td><code>mobile</code></td><td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" /></td></tr>
 <tr><td><code>ml / cv</code></td><td><img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,tensorflow&theme=dark" /> <img src="https://img.shields.io/badge/MediaPipe-0b0f14?style=flat-square&logoColor=00e5ff" /></td></tr>
 <tr><td><code>embedded</code></td><td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /> <img src="https://img.shields.io/badge/ESP32-0b0f14?style=flat-square&logo=espressif&logoColor=00e5ff" /></td></tr>
-<tr><td><code>tools</code></td><td><img src="https://skillicons.dev/icons?i=git,github,linux,vercel&theme=dark" /></td></tr>
+<tr><td><code>tools</code></td><td><img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" /></td></tr>
 </table>
 
 <br/>
