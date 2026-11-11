@@ -62,11 +62,6 @@ open to     internships in software engineering, embedded systems and ML
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutosh-tanguria&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=00e5ff&icon_color=39ff88&text_color=c9d1d9&ring_color=00e5ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-tanguria&layout=compact&hide_border=true&bg_color=0b0f14&title_color=00e5ff&text_color=c9d1d9" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ashutosh-tanguria&hide_border=true&background=0b0f14&ring=00e5ff&fire=39ff88&currStreakLabel=00e5ff&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6b7a8c&stroke=1b2430" />
 </div>
 
