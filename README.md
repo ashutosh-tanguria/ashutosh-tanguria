@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio-ashutosh-t.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0b0f14?style=for-the-badge&logo=windowsxp&logoColor=00e5ff" /></a>
+  <a href="https://portfolio-ashutosh-tanguria.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0b0f14?style=for-the-badge&logo=windowsxp&logoColor=00e5ff" /></a>
   <a href="https://www.linkedin.com/in/ashutosh-tanguria/"><img src="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>
   <a href="mailto:ashutosh.16748@gmail.com"><img src="https://img.shields.io/badge/MAIL-0b0f14?style=for-the-badge&logo=gmail&logoColor=39ff88" /></a>
 </div>
